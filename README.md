@@ -13,6 +13,6 @@
 
 ## screenshots
 
-(https://raw.githubusercontent.com/serhatgurkan/react-native-weather-app/master/assets/screenshots/s1.png)
-(https://raw.githubusercontent.com/serhatgurkan/react-native-weather-app/master/assets/screenshots/s2.png)
-(https://raw.githubusercontent.com/serhatgurkan/react-native-weather-app/master/assets/screenshots/s3.png)
+![screenshot](https://github.com/serhatgurkan/csskeylogger/raw/master/assets/screenshots/s1.png)
+![screenshot](https://github.com/serhatgurkan/csskeylogger/raw/master/assets/screenshots/s2.png)
+![screenshot](https://github.com/serhatgurkan/csskeylogger/raw/master/assets/screenshots/s3.png)

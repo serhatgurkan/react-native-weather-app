@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name":"Weao",
+    "icon":"./assets/logo.png",
+    "version":"0.1.0",
+    "slug":"weao",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.devncoke.weao"
+    },
+    "android": {
+      "package": "com.devncoke.weao"
+    }
+  }
+}
